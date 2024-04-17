@@ -8,7 +8,7 @@ export default function About() {
         <h2 className='font-noto text-4xl font-bold text-white'>
           Evaporatech: evaporação em múltiplos efeitos
         </h2>
-        <p className='font-noto mt-5 text-lg text-white'>
+        <p className='mt-5 font-noto text-lg text-white'>
           O Evaporatech é um software que simula o processo de evaporação em um
           ou mais efeitos. Criado em 2023, a ideia do software surgiu como tema
           de trabalho de conclusão de curso dos alunos Eduardo Sobrinho Polon e
@@ -19,7 +19,7 @@ export default function About() {
           e servir como ferramenta de aprendizagem na disciplina de Operações
           Unitárias.
         </p>
-        <p className='font-noto mt-5 text-lg text-white'>
+        <p className='mt-5 font-noto text-lg text-white'>
           Utilizando C# e Winforms, o Evaporatech foi estruturado durante alguns
           meses e, após ser apresentado a uma banca de professores do
           Departamento de Engenharia Química da UEM, o software foi apresentado

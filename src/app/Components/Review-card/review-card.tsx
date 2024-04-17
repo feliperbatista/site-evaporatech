@@ -23,10 +23,10 @@ export default function ReviewCard({
           </div>
         </div>
         <div>
-          <h2 className='font-noto px-4 text-lg font-bold text-white group-hover:text-black'>
+          <h2 className='px-4 font-noto text-lg font-bold text-white group-hover:text-black'>
             {title}
           </h2>
-          <p className='font-roboto mt-3 px-5 text-xs text-white group-hover:text-black'>
+          <p className='mt-3 px-5 font-roboto text-xs text-white group-hover:text-black'>
             {text}
           </p>
         </div>
