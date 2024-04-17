@@ -1,0 +1,14 @@
+.opacity {
+  animation: opacity 1ms ease-in-out;
+  animation-timeline: scroll();
+  animation-range: cover 0% cover 100%;
+}
+
+@keyframes opacity {
+  from {
+    background: rgba(127, 17, 224, 0.1)
+  }
+  to {
+    background: rgb(21, 1, 101)
+  }
+}
