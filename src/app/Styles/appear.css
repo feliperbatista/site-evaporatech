@@ -19,8 +19,8 @@
 
 .appear-2 {
   animation: appear-2 1ms ease-in-out;
-  animation-timeline: scroll();
-  animation-range: cover 10% cover 40%;
+  animation-timeline: view();
+  animation-range: cover 0% cover 40%;
   transition: all;
 }
 

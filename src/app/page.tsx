@@ -15,7 +15,7 @@ export default function Home() {
       </Container>
       <About></About>
       <Developers></Developers>
-      <Developers></Developers>
+      <Contact></Contact>
       <Footer></Footer>
     </>
   );
